@@ -31,36 +31,6 @@ Apex is a modern, professional agency website template designed for creative age
 - ![Bootstrap Icons](https://img.shields.io/badge/Bootstrap_Icons-1.10.5-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 
-## 📋 Website Sections
-
-| Section | Description | Preview |
-|---------|-------------|---------|
-| **🚀 Hero** | Eye-catching header with background image | ⭐ |
-| **🎯 Services** | 6 service cards with Bootstrap icons | 🎯 |
-| **📊 Projects** | Portfolio showcase with 6 projects | 📊 |
-| **🏢 About** | Company info with statistics | 📈 |
-| **🌟 Testimonials** | Client reviews and feedback | 🌟 |
-| **📞 CTA** | Call-to-action section | 📞 |
-| **🦶 Footer** | Comprehensive footer with links | 🔗 |
-
-## 🚀 Quick Start
-
-### Installation
-# Clone or download the project
-```bash
-git clone https://github.com/axadishaq/Apex-agency.git
-
-cd Apex-agency
-```
-# Open in browser
-open index.html
-
-
-### No Build Process Required!
-All dependencies are CDN-based - simply open `index.html` to view the template.
-
-## 🔧 Technical Details
-
 ### File Structure
 ```
 Apex/
@@ -109,4 +79,5 @@ If you find this template useful:
 
 [![GitHub Follow](https://img.shields.io/github/followers/axadishaq?style=social)](https://github.com/axadishaq)
 [![Twitter Follow](https://img.shields.io/twitter/follow/apexagency?style=social)](https://twitter.com/apexagency)
+
 

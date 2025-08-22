@@ -30,11 +30,6 @@ Apex is a modern, professional agency website template designed for creative age
 - ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-5.3.0-7952B3?style=flat&logo=bootstrap&logoColor=white)
 - ![Bootstrap Icons](https://img.shields.io/badge/Bootstrap_Icons-1.10.5-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-**Design Elements:**
-- **Color Scheme**: Dark theme with `#111111` (primary) and `#7000ff` (accent)
-- **Typography**: System UI fonts for modern appearance
-- **Icons**: Bootstrap Icons throughout the design
-- **Layout**: Responsive grid system with Bootstrap
 
 ## 📋 Website Sections
 
@@ -64,34 +59,6 @@ open index.html
 ### No Build Process Required!
 All dependencies are CDN-based - simply open `index.html` to view the template.
 
-## 🎨 Customization Guide
-
-### Color Scheme
-Modify the CSS variables in `style.css`:
-```css
-:root {
-    --primary: #111111;      /* Main dark color */
-    --secondary: #7000ff;    /* Purple accent color */
-    --light-bg: #f8f9fa;     /* Light background */
-    --text-gray: #666666;    /* Secondary text color */
-}
-```
-
-### Content Updates
-- ✏️ Edit text content in `index.html`
-- 🖼️ Replace images with your own assets
-- 🎯 Update services and project details
-- 📊 Modify statistics and testimonials
-- 📞 Change contact information
-
-### Service Icons
-Replace Bootstrap icons in the services section:
-```html
-<div class="feature-icon">
-    <i class="bi bi-brush"></i> <!-- Change to any Bootstrap icon -->
-</div>
-```
-
 ## 🔧 Technical Details
 
 ### File Structure
@@ -103,28 +70,12 @@ Apex/
 └── 🖼️ images/        # Image assets directory
 ```
 
-### Browser Compatibility
-- ✅ Chrome (latest)
-- ✅ Firefox (latest)
-- ✅ Safari (latest)
-- ✅ Edge (latest)
-- ✅ Mobile browsers
-
 ### Performance Features
 - ⚡ CDN-hosted dependencies
 - 🎯 Optimized images
 - 📱 Mobile-first responsive design
 - ♿ Accessibility considerations
 
-## 🚀 Deployment Options
-
-| Platform | Instructions | Difficulty |
-|----------|-------------|------------|
-| **Local** | Open `index.html` | ⭐ Easy |
-| **GitHub Pages** | Push to repository | ⭐⭐ Medium |
-| **Netlify** | Drag & drop deploy | ⭐⭐ Medium |
-| **Vercel** | Git integration | ⭐⭐⭐ Advanced |
-| **Shared Hosting** | FTP upload | ⭐⭐ Medium |
 
 ## 📝 License
 
@@ -140,14 +91,6 @@ We welcome contributions! Here's how you can help:
 4. ✅ Test your changes
 5. 📤 Submit a pull request
 
-## 📞 Support
-
-**Need help or have questions?**
-
-- 📧 **Email**: info@apex.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/axadishaq/apex/issues)
-- 💬 **Discussions**: [Community Forum](https://github.com/axadishaq/apex/discussions)
-- 📚 **Documentation**: [Wiki](https://github.com/axadishaq/apex/wiki)
 
 ## 🌟 Show Your Support
 
@@ -166,3 +109,4 @@ If you find this template useful:
 
 [![GitHub Follow](https://img.shields.io/github/followers/axadishaq?style=social)](https://github.com/axadishaq)
 [![Twitter Follow](https://img.shields.io/twitter/follow/apexagency?style=social)](https://twitter.com/apexagency)
+

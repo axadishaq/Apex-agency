@@ -51,14 +51,15 @@ Apex is a modern, professional agency website template designed for creative age
 ## 🚀 Quick Start
 
 ### Installation
-```bash
 # Clone or download the project
-git clone <repository-url>
-cd apex
+```bash
+git clone https://github.com/axadishaq/Apex-agency.git
 
+cd Apex-agency
+```
 # Open in browser
 open index.html
-```
+
 
 ### No Build Process Required!
 All dependencies are CDN-based - simply open `index.html` to view the template.
@@ -90,45 +91,6 @@ Replace Bootstrap icons in the services section:
     <i class="bi bi-brush"></i> <!-- Change to any Bootstrap icon -->
 </div>
 ```
-
-## 📊 Key Statistics
-
-| Metric | Value | Icon |
-|--------|-------|------|
-| **Projects Completed** | 45+ | 📈 |
-| **Happy Clients** | 32 | 😊 |
-| **Team Members** | 18 | 👥 |
-| **Awards Won** | 12 | 🏆 |
-
-## 🎯 Services Offered
-
-| Service | Description | Icon |
-|---------|-------------|------|
-| **UI/UX Design** | Stunning user interfaces and experiences | 🎨 |
-| **Web Development** | Responsive, high-performance websites | 💻 |
-| **Digital Marketing** | Data-driven marketing strategies | 📈 |
-| **Mobile App Design** | Intuitive mobile applications | 📱 |
-| **Brand Strategy** | Brand identity and positioning | 🎯 |
-| **Content Creation** | Engaging content production | ✍️ |
-
-## 📊 Project Portfolio
-
-| Project | Category | Description |
-|---------|----------|-------------|
-| **Ether Branding** | Brand Strategy, Design | Comprehensive branding solution |
-| **Pulse App** | UX/UI, Development | Mobile application design |
-| **Novo E-commerce** | Web Design, Development | E-commerce platform |
-| **Breeze Finance** | Brand Identity, Web Design | Financial services branding |
-| **Zenith Campaign** | Digital Marketing, Content | Marketing campaign |
-| **Aura Mobile App** | App Design, Development | Mobile application |
-
-## 🌟 Client Testimonials
-
-| Client | Position | Feedback |
-|--------|----------|----------|
-| **Sarah Johnson** | CEO, Ether Inc. | "Transformed our brand and digital presence" |
-| **Mark Williams** | Founder, Pulse | "Game-changer for our startup" |
-| **Emily Chen** | Marketing Director, Novo | "Solutions that drive real business results" |
 
 ## 🔧 Technical Details
 
